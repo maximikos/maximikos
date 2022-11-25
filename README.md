@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maximikos,
-- 👀 I’m interested in environmental and data science.
+- 👀 I’m interested in environmental and data science, although my research is tipping me a little more towards economics.
 - 🌱 I’m currently learning a little bit of julia and python.
 - 💞️ I’m looking to collaborate on open science projects on sustainability research.
 - 📫 How to reach me: via some option on [my website](https://maximikos.github.io/).
